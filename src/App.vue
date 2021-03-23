@@ -1,6 +1,8 @@
 <template>
+
 	<div class="vue-tempalte">
-		<!-- Navigation -->
+		<!--
+		<Navigation>
 		<header>
 			<nav class="navbar navbar-expand-lg navbar-light changecolor topsize" style="top: 0px; width: 100%; opacity:0.5; position: fixed;" id="nav">
 				<a class="navbar-brand" href="/" style="color: white; z-index: 99 !important; right: 50%; margin-left: 10%; margin-top: 1%;">ZoomClone</a>
@@ -11,8 +13,7 @@
 				</div>
 			</nav>
 		<div class="para" style="position: fixed; left: -30px; top: 0px;"></div>
-		</header>
-
+		</header> -->
 		<!-- Main -->
 		<div class="App">
 			<div class="vertical-center">
